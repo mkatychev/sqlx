@@ -584,7 +584,7 @@ dependencies = [
 [[package]]
 name = "chrono"
 version = "0.4.23"
-source = "git+https://github.com/mkatychev/chrono?branch=feat/archive_peq_rkyv_0.4.x#cb958c386e838d58917897d84effbaeb98a50162"
+source = "git+https://github.com/mkatychev/chrono?branch=feat/archive_peq_rkyv_0.4.x#27ca8dd1723a4fbda473e35c2c8a3917e52a2306"
 dependencies = [
  "bytecheck",
  "iana-time-zone",
